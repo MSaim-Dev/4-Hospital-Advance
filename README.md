@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Site](https://your-live-link-here.com)**
+🔗 **[View Live Site](https://unrivaled-stardust-c73db5.netlify.app/)**
 
 ---
 
